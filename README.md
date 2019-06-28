@@ -1,3 +1,5 @@
+# Computational Neuroscience Final Project
+## Predicting Antibody Origin Species Using Only Amino Acid Sequence of the Variable Regions:
 **ALL WORK CONTAINED IN IPYTHON NOTEBOOK** This notebook is fully rendered and can be viewed directly online. If you'd prefer to view it though jupyter, though, you'll be able to see the visuals more nicely, but viewing in github will give you all the important information you need.
 
 ## Background:
