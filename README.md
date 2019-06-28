@@ -1,4 +1,4 @@
-**ALL WORK CONTAINED IN IPYTHON NOTEBOOK** This notebook is fully rendered and can be viewed directly online. If you'd prefer to view it though jupyter, though, you'll be able to see the visuals more nicely, but viewing in git hub will give you all the important information you need.
+**ALL WORK CONTAINED IN IPYTHON NOTEBOOK** This notebook is fully rendered and can be viewed directly online. If you'd prefer to view it though jupyter, though, you'll be able to see the visuals more nicely, but viewing in github will give you all the important information you need.
 
 ## Background:
 I spent my past summer working in the bioinformatics group of a small biotech company called Cell Signaling Technology. Our company focuses on the development of research antibodies, and much of the software I used involved structural modelling, binding-epitope prediction, binding-affinity prediction, etc. Many of these applications were built by implementing by pre-trained neural nets that could "map" antibody residue sequence to binding  site, structural features, etc.
