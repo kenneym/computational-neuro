@@ -11,12 +11,12 @@ Despite making good use of these machine-learning-based programs & packages, I'd
 
 ### Practical Objectives:
 
-- Prior to completing this project, I had never used any of the python libraries you see me using below. Thus, one of the most important objectives here was to begin introducing myself to ML through code, and to become familiar with some of the commonly-used libraries used by ML software engineers. Although I was not able to apply everything I learned to my code, I spent about 20-30 hours consuming an Udemy course, "Complete Guide to TensorFlow for Deep Learning with Python", and learned the basics of the following libraries:
-
-    - tensorflow
-    - pandas
-    - numpy
-    - scikitlearn
+- Prior to completing this project, I had never used many of the python libraries you see me using below. Thus, one of the most important objectives here was to begin introducing myself to ML through code, and to become familiar with some of the commonly-used libraries used by ML software engineers. Although I was not able to apply everything I learned to my code, I spent about 20-30 hours consuming an Udemy course, "Complete Guide to TensorFlow for Deep Learning with Python." Through this course, I learned from scratch or improved my skills in each of the following libraries:
+	- tensorflow
+	- pandas
+	- numpy
+	- scikitlearn
+	- matplotlib
     - matplotlib
 
 - A second objective of this work was to become familiar with how exactly to apply a knowledge of machine learning to code itself- to translate a conceptual understanding into a technical skill.
