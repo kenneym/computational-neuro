@@ -1,10 +1,5 @@
-# Computational Neuroscience Final Project
-## Predicting Antibody Origin Species Using Only Amino Acid Sequence of the Variable Regions:
-**Project Contained in ipython notebook** This notebook is fully rendered and can be viewed directly online. If you'd prefer to view the notebook locally, you'll be able to view the genetic sequences more nicely with the jupyterlab fasta extension. 
-
-## Summary:
-
-For my Computational Neuroscience final project, I decided to build a TensorFlow application. This project builds off of my former work in bioinformatics at Cell Signaling Technologies. Using only protein-sequence information as input, I designed a Convolutional Neural Net to correctly predict antibody origin species.
+# Computational Neuroscience Final Project -  Predicting Antibody Origin Species Using Only Amino Acid Sequence of the Variable Regions:
+For my Computational Neuroscience final project, I decided to build a TensorFlow application. This project builds off of my former work in bioinformatics at Cell Signaling Technologies. Using only protein-sequence information as input, I designed a Convolutional Neural Net (CNN) to correctly predict antibody origin species.
 
 ## Project Background:
 
